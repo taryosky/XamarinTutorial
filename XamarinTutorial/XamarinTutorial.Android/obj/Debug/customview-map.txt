@@ -1,0 +1,50 @@
+@string/appbar_scrolling_view_behavior;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/59/jl/res/layout/rootlayout.xml
+adaptive-icon;obj/Debug/res/mipmap-anydpi-v26/icon.xml
+adaptive-icon;obj/Debug/res/mipmap-anydpi-v26/icon_round.xml
+alpha;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/59/jl/res/anim/enterfromleft.xml
+alpha;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/59/jl/res/anim/exittoleft.xml
+androidx.appcompat.widget.Toolbar;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/59/jl/res/layout/fallbacktoolbardonotuse.xml
+androidx.appcompat.widget.Toolbar;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/59/jl/res/layout/rootlayout.xml
+androidx.appcompat.widget.Toolbar;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/59/jl/res/layout/shellcontent.xml
+androidx.appcompat.widget.Toolbar;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/59/jl/res/layout/toolbar.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/59/jl/res/layout/rootlayout.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/59/jl/res/layout/shellcontent.xml
+attr;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/59/jl/res/values/attrs.xml
+background;obj/Debug/res/mipmap-anydpi-v26/icon.xml
+background;obj/Debug/res/mipmap-anydpi-v26/icon_round.xml
+cache-path;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/57/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+color;obj/Debug/res/values/colors.xml
+com.google.android.material.appbar.AppBarLayout;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/59/jl/res/layout/flyoutcontent.xml
+com.google.android.material.appbar.AppBarLayout;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/59/jl/res/layout/rootlayout.xml
+com.google.android.material.appbar.AppBarLayout;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/59/jl/res/layout/shellcontent.xml
+com.google.android.material.bottomnavigation.BottomNavigationView;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/59/jl/res/layout/bottomtablayout.xml
+com.google.android.material.tabs.TabLayout;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/59/jl/res/layout/fallbacktabbardonotuse.xml
+com.google.android.material.tabs.TabLayout;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/59/jl/res/layout/rootlayout.xml
+com.google.android.material.tabs.TabLayout;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/59/jl/res/layout/tabbar.xml
+declare-styleable;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/59/jl/res/values/attrs.xml
+external-cache-path;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/57/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+external-path;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/57/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj/Debug/res/mipmap-anydpi-v26/icon.xml
+foreground;obj/Debug/res/mipmap-anydpi-v26/icon_round.xml
+FrameLayout;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/59/jl/res/layout/bottomtablayout.xml
+item;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/59/jl/res/values/styles.xml
+LinearLayout;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/59/jl/res/layout/bottomtablayout.xml
+paths;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/57/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+resources;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/59/jl/res/values/attrs.xml
+resources;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/59/jl/res/values/strings.xml
+resources;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/59/jl/res/values/styles.xml
+resources;obj/Debug/res/values/colors.xml
+resources;obj/Debug/res/values/styles.xml
+set;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/59/jl/res/anim/enterfromleft.xml
+set;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/59/jl/res/anim/enterfromright.xml
+set;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/59/jl/res/anim/exittoleft.xml
+set;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/59/jl/res/anim/exittoright.xml
+string;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/59/jl/res/values/strings.xml
+style;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/59/jl/res/values/styles.xml
+style;obj/Debug/res/values/styles.xml
+translate;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/59/jl/res/anim/enterfromleft.xml
+translate;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/59/jl/res/anim/enterfromright.xml
+translate;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/59/jl/res/anim/exittoleft.xml
+translate;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/59/jl/res/anim/exittoright.xml
+xamarin.forms.platform.android.appcompat.FormsViewPager;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/59/jl/res/layout/rootlayout.xml
+xamarin.forms.platform.android.ShellFlyoutLayout;/Users/Taryosky/Documents/Xamarin tutorials/XamarinTutorial/XamarinTutorial/XamarinTutorial.Android/obj/Debug/lp/59/jl/res/layout/flyoutcontent.xml

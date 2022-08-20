@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{1DFFF52E-BCA6-45EA-9958-D313F1ADDEE2}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinTutorial/XamarinTutorial/MainPage.xaml.cs">
+    <Files>
+      <File FileName="XamarinTutorial/XamarinTutorial/Helpers/Constants.cs" Line="6" Column="99" />
+      <File FileName="XamarinTutorial/XamarinTutorial/Models/Venue.cs" Line="59" Column="6" />
+      <File FileName="XamarinTutorial/XamarinTutorial/Logic/VenueLogic.cs" Line="38" Column="1" />
+      <File FileName="XamarinTutorial/XamarinTutorial/Pages/NewTravelPage.xaml.cs" Line="38" Column="43" />
+      <File FileName="XamarinTutorial/XamarinTutorial/Pages/NewTravelPage.xaml" Line="13" Column="93" />
+      <File FileName="XamarinTutorial/XamarinTutorial/Models/Post.cs" Line="12" Column="41" />
+      <File FileName="XamarinTutorial/XamarinTutorial/Pages/HistoryPage.xaml.cs" Line="20" Column="13" />
+      <File FileName="XamarinTutorial/XamarinTutorial/Pages/MapPage.xaml.cs" Line="16" Column="63" />
+      <File FileName="XamarinTutorial/XamarinTutorial/MainPage.xaml" Line="18" Column="1" />
+      <File FileName="XamarinTutorial/XamarinTutorial/MainPage.xaml.cs" Line="13" Column="73" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamarinTutorial" expanded="True">
+            <Node name="XamarinTutorial" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="Images" expanded="True" />
+              </Node>
+              <Node name="Pages" expanded="True">
+                <Node name="HistoryPage.xaml" expanded="True" />
+                <Node name="MapPage.xaml" expanded="True" />
+                <Node name="NewTravelPage.xaml" expanded="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.XamarinTutorial.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget." />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_30" />
+  <MonoDevelop.Ide.ItemProperties.XamarinTutorial.Android AndroidDesignerPreferredTheme="MainTheme" PreferredExecutionTarget="Android.pixel_5_-_api_30" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.0.0.0" />
+</Properties>
